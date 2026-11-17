@@ -5,7 +5,6 @@ A Python project demonstrating predicate logic, logical quantifiers, relationshi
 
 ## About the Project
 This project demonstrates how to implement mathematical predicate logic using Python.
-
 It represents relationships between people and evaluates logical statements using Python's built-in functions and data structures.
 
 ## Concepts Covered
